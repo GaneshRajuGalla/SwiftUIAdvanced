@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUIAdvancedApp: App {
     var body: some Scene {
         WindowGroup {
-          ViewModifierSample()
+          CustomTransistionSample()
         }
     }
 }
